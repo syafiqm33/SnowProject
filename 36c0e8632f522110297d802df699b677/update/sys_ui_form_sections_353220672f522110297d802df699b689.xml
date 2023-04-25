@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="353220672f522110297d802df699b689" sys_domain="global" table="x_287870_test_appl_test_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>syafiq.rahman</sys_created_by>
+            <sys_created_on>2023-04-25 07:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a3220672f522110297d802df699b6a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_287870_test_appl_test_table" name="x_287870_test_appl_test_table" sys_domain="global" view="Default view">353220672f522110297d802df699b689</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_287870_test_appl_test_table" sys_domain="global" view="Default view">efb124272f522110297d802df699b62b</sys_ui_section>
+            <sys_updated_by>syafiq.rahman</sys_updated_by>
+            <sys_updated_on>2023-04-25 07:54:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>syafiq.rahman</sys_created_by>
+            <sys_created_on>2023-04-25 07:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>063220672f522110297d802df699b6a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_287870_test_appl_test_table" name="x_287870_test_appl_test_table" sys_domain="global" view="Default view">353220672f522110297d802df699b689</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_287870_test_appl_test_table" sys_domain="global" view="Default view">bd3220672f522110297d802df699b686</sys_ui_section>
+            <sys_updated_by>syafiq.rahman</sys_updated_by>
+            <sys_updated_on>2023-04-25 07:54:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>syafiq.rahman</sys_created_by>
+            <sys_created_on>2023-04-25 07:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>823220672f522110297d802df699b6aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_287870_test_appl_test_table" name="x_287870_test_appl_test_table" sys_domain="global" view="Default view">353220672f522110297d802df699b689</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_287870_test_appl_test_table" sys_domain="global" view="Default view">793220672f522110297d802df699b687</sys_ui_section>
+            <sys_updated_by>syafiq.rahman</sys_updated_by>
+            <sys_updated_on>2023-04-25 07:54:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>syafiq.rahman</sys_created_by>
+            <sys_created_on>2023-04-25 07:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e3220672f522110297d802df699b6ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_287870_test_appl_test_table" name="x_287870_test_appl_test_table" sys_domain="global" view="Default view">353220672f522110297d802df699b689</sys_ui_form>
+            <sys_ui_section caption="Diagnostic" display_value="Diagnostic" name="x_287870_test_appl_test_table" sys_domain="global" view="Default view">353220672f522110297d802df699b688</sys_ui_section>
+            <sys_updated_by>syafiq.rahman</sys_updated_by>
+            <sys_updated_on>2023-04-25 07:54:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_287870_test_appl_test_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>syafiq.rahman</sys_created_by>
+            <sys_created_on>2023-04-25 07:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>353220672f522110297d802df699b689</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_287870_test_appl_test_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test Application" source="x_287870_test_appl">36c0e8632f522110297d802df699b677</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Application">36c0e8632f522110297d802df699b677</sys_scope>
+            <sys_update_name>sys_ui_form_sections_353220672f522110297d802df699b689</sys_update_name>
+            <sys_updated_by>syafiq.rahman</sys_updated_by>
+            <sys_updated_on>2023-04-25 07:54:53</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
