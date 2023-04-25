@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_287870_test_appl.test_table_user" name="x_287870_test_appl.test_table_user">a861a0272f522110297d802df699b6be</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>syafiq.rahman</sys_created_by>
+        <sys_created_on>2023-04-25 07:51:15</sys_created_on>
+        <sys_id>ac61a0272f522110297d802df699b6c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a861a0272f522110297d802df699b6be</sys_name>
+        <sys_package display_value="Test Application" source="x_287870_test_appl">36c0e8632f522110297d802df699b677</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application">36c0e8632f522110297d802df699b677</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ac61a0272f522110297d802df699b6c1</sys_update_name>
+        <sys_updated_by>syafiq.rahman</sys_updated_by>
+        <sys_updated_on>2023-04-25 07:51:15</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

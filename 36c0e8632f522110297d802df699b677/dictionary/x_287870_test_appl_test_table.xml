@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="d44120272f522110297d802df699b6a0" label="Test Table" max_length="40" name="x_287870_test_appl_test_table" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="target_field=percent_complete_target,target_threshold_colors=0:tomato;50:khaki;90:lightgreen,target_field=u_target" label="Percentage Completed" max_length="15" name="percentage_completed" type="percent_complete"/>
+        <element default="true" label="Active" max_length="40" name="u_active" type="boolean"/>
+        <element label="Target" max_length="15" name="u_target" type="decimal"/>
+    </element>
+</database>

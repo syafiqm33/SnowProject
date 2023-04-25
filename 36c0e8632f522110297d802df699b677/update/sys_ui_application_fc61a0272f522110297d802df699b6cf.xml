@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Testing Module</name>
+        <order/>
+        <roles>x_287870_test_appl.test_table_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>syafiq.rahman</sys_created_by>
+        <sys_created_on>2023-04-25 07:51:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fc61a0272f522110297d802df699b6cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing Module</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test Application" source="x_287870_test_appl">36c0e8632f522110297d802df699b677</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application">36c0e8632f522110297d802df699b677</sys_scope>
+        <sys_update_name>sys_ui_application_fc61a0272f522110297d802df699b6cf</sys_update_name>
+        <sys_updated_by>syafiq.rahman</sys_updated_by>
+        <sys_updated_on>2023-04-25 07:51:15</sys_updated_on>
+    </sys_ui_application>
+</record_update>
